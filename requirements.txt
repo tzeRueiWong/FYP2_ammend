@@ -1,0 +1,6 @@
+firebase==4.0.1
+streamlit==1.33.0
+firebase-rest-api==1.11.0
+pandas==2.2.1
+google-ai-generativelanguage == 0.6.6
+matplotlib == 3.9.0

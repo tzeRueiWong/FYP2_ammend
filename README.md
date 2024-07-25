@@ -7,5 +7,5 @@ https://presentation-6yfgztsjibdgnj2dd4hm3b.streamlit.app/
 Unfortunately the hosted version will not have the chatbot, as the authentication token requires frequent updates.
 There is also a chance the hosted version may not work due to my account using a free plan.
 
-if you see this image, pls click on the button on wait for the app to finish loading.
+if you see this image, pls click on the button and wait for the app to finish loading.
 ![image](https://github.com/user-attachments/assets/9e11c179-6ab2-472f-a226-2d74a51e3dda)
